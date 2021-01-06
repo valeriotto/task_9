@@ -1,0 +1,33 @@
+.calc-row {
+    height: 100vh;
+    font-family: "Share Tech Mono", monospace;
+}
+
+.card-body {
+    background-color: rgba(199, 197, 194, 0.479);
+}
+
+.input-window {
+    text-align: end;
+    font-size: x-large;
+    margin: 2px;
+}
+
+.journal {
+    /*text-align: end;*/
+    font-size: small;
+    padding: 0px;
+    margin: 0px;
+}
+
+.row,
+.col {
+    /*padding: 0px;*/
+    margin: 2px;
+}
+
+.btn-outline-secondary,
+.btn-outline-primary {
+    color: green;
+    font-weight: bold;
+}
